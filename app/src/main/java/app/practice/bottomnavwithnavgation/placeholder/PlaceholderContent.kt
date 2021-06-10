@@ -1,4 +1,4 @@
-package app.practice.bottomnavwithnavication.placeholder
+package app.practice.bottomnavwithnavgation.placeholder
 
 import java.util.ArrayList
 import java.util.HashMap

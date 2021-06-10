@@ -1,4 +1,4 @@
-package app.practice.bottomnavwithnavication
+package app.practice.bottomnavwithnavgation
 
 import org.junit.Test
 

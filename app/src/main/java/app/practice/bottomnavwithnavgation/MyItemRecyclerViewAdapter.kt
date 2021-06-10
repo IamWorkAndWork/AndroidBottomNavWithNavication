@@ -1,13 +1,12 @@
-package app.practice.bottomnavwithnavication
+package app.practice.bottomnavwithnavgation
 
 import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 
-import app.practice.bottomnavwithnavication.placeholder.PlaceholderContent.PlaceholderItem
-import app.practice.bottomnavwithnavication.databinding.FragmentItemBinding
+import app.practice.bottomnavwithnavgation.placeholder.PlaceholderContent.PlaceholderItem
+import app.practice.bottomnavwithnavgation.databinding.FragmentItemBinding
 
 /**
  * [RecyclerView.Adapter] that can display a [PlaceholderItem].

@@ -1,4 +1,4 @@
-package app.practice.bottomnavwithnavication
+package app.practice.bottomnavwithnavgation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
